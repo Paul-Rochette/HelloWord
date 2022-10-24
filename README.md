@@ -5,5 +5,5 @@ First GitHub Repository
 ---
 **Ce texte est en gras** 
 Je veux faire un retour à la ligne  
-Pour cela il faut mettre deux espaces avant d'appuyer sur entré  
+Pour cela il faut mettre deux espaces avant d'appuyer sur entrée
 Test ??  
