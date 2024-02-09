@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "HelloWord"
+  site-url: "https://Paul-Rochette.github.io/HelloWord"
+  description: "First GitHub Repository"
+  repo-branch: main
+  repo-url: "https://github.com/Paul-Rochette/HelloWord"
