@@ -1,0 +1,52 @@
+[
+  {
+    "objectID": "new_core.html",
+    "href": "new_core.html",
+    "title": "Première partie",
+    "section": "",
+    "text": "source\n\naddition\n\n addition (a, b)\n\n\nsource\n\n\nfoo\n\n foo ()",
+    "crumbs": [
+      "Première partie"
+    ]
+  },
+  {
+    "objectID": "new_new_core.html",
+    "href": "new_new_core.html",
+    "title": "Seconde partie",
+    "section": "",
+    "text": "source\n\naddition\n\n addition (a, b)\n\n\nimport HelloWord as hw\n\n\nhw.addition(1,3)\n\nAttributeError: module 'HelloWord' has no attribute 'addition'",
+    "crumbs": [
+      "Seconde partie"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "HelloWord",
+    "section": "",
+    "text": "This file will become your README and also the index of your documentation.",
+    "crumbs": [
+      "HelloWord"
+    ]
+  },
+  {
+    "objectID": "index.html#install",
+    "href": "index.html#install",
+    "title": "HelloWord",
+    "section": "Install",
+    "text": "Install\npip install HelloWord",
+    "crumbs": [
+      "HelloWord"
+    ]
+  },
+  {
+    "objectID": "index.html#how-to-use",
+    "href": "index.html#how-to-use",
+    "title": "HelloWord",
+    "section": "How to use",
+    "text": "How to use\nFill me in please! Don’t forget code examples:\n\n1+1\n\n2",
+    "crumbs": [
+      "HelloWord"
+    ]
+  }
+]
