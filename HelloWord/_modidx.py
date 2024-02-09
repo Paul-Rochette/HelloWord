@@ -5,4 +5,6 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://Paul-Rochette.github.io',
                 'git_url': 'https://github.com/Paul-Rochette/HelloWord',
                 'lib_path': 'HelloWord'},
-  'syms': {'HelloWord.core': {'HelloWord.core.foo': ('core.html#foo', 'HelloWord/core.py')}}}
+  'syms': { 'HelloWord.core': {'HelloWord.core.foo': ('core.html#foo', 'HelloWord/core.py')},
+            'HelloWord.new_core': { 'HelloWord.new_core.addition': ('new_core.html#addition', 'HelloWord/new_core.py'),
+                                    'HelloWord.new_core.foo': ('new_core.html#foo', 'HelloWord/new_core.py')}}}
